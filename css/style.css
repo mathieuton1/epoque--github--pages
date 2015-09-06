@@ -9,7 +9,7 @@ body {
 	
 }
 
-.wrapper {
+.wrapper{
 
 	background-image: url("../images/TUE K7.jpg");
 	background-size: cover;
@@ -117,4 +117,21 @@ body {
 	padding : 5px;
 	border: 2px solid black;
 	border-radius: 20%;
+}
+
+.btn-info {
+	background-color: #FF7225;
+	border-color: #C95B0C;
+}
+
+.btn-info:hover {
+	background-color: #FF8E2F;
+	border-color: #C95B0C;
+}
+
+
+.vertical-spacer {
+	padding-top: 2px;
+	height: 8em;
+	padding-bottom: 5em;
 }
