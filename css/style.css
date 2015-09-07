@@ -122,6 +122,7 @@ body {
 .btn-info {
 	background-color: #FF7225;
 	border-color: #C95B0C;
+	font-size: 16px;
 }
 
 .btn-info:hover {
@@ -143,10 +144,11 @@ body {
 	clear:left; 
 	font-family: 'Open Sans', sans-serif;
 	color : black;
+	font-size: 14px;
 
 }
 
 #mce-EMAIL {
 	color : black;
-
+	font-size: 18px;
 }
