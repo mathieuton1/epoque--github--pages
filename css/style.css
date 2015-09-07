@@ -135,3 +135,18 @@ body {
 	height: 8em;
 	padding-bottom: 5em;
 }
+
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{
+	background: #FF8E2F; 
+	clear:left; 
+	font-family: 'Open Sans', sans-serif;
+	color : black;
+
+}
+
+#mce-EMAIL {
+	color : black;
+
+}
